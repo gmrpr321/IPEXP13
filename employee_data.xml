@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <employees>
   <employee>
-    <name>John Doe</name>
+    <name>Pradeep</name>
     <salary>60000</salary>
   </employee>
   <employee>
-    <name>Jane Smith</name>
+    <name>Harish</name>
     <salary>40000</salary>
   </employee>
   <employee>
-    <name>Bob Johnson</name>
+    <name>Jash</name>
     <salary>75000</salary>
   </employee>
 </employees>
